@@ -6,7 +6,12 @@ classes: wide
 ---
 ## Web scraping and interactive bump charts
 
-![Screenshot of Men's team results](/assets/images/IBJJF_Mens_Results.jpg)
+<figure>
+  <img
+    src="/assets/images/IBJJF_Mens_Results.jpg"
+     alt="Static image of Men's results">
+  <figcaption>Static screenshot, interactive charts shown below.</figcaption>
+</figure>
 
 If you practice Brazilian jiu jitsu (BJJ), you probably notice some teams win consistently but how often do we look at their rankings over the years? Even if you're not participating in or following this very niche sport, it might give you some ideas or tools to do a similar analysis on another subject.
 
@@ -21,7 +26,7 @@ A fair criticism is that the points are the same for each belt level - i.e. 1st 
 **How I did it:** To get the data, I did some web scraping from the IBJJF's Championships results page to get the individual year rankings. After cleaning up the data in pandas, I used Altair to plot the results for Men's, Women's, and Juvenile categories.
 
 ## Quick notes for navigating:
-- **This site is best viewed on a desktop.**
+- **This site is best viewed on a computer. Viewing on your phone won't allow selecting multiple teams in the charts.**
 - **To select multiple teams in the chart, click a team's name in the legend, then `Shift + Click` to add more teams.**
 - You can also hover over each point to identify the team plotted.
 
@@ -39,7 +44,7 @@ Consistently high-performing women's teams: Alliance, Atos, CheckMat, GF Team, G
 
 {% include chartjuvenileresults.html %}
 
-Consistent top juvenile teams over the years: Alliance, CheckMat, GF Team, Gracie Barra, Gracie Humaita, Nova Uniao (they had a lot of success in the first few years then placed sporadically). More recent years show Atos, Art of Jiu Jitsu, and Team Lloyd Irvin establishing themselves among the top teams.
+Consistent top juvenile teams over the years: Alliance, CheckMat, GF Team, Gracie Barra, Gracie Humaita, Nova Uniao (they had a lot of success in the first few years then placed sporadically). More recent years show Art of Jiu Jitsu, Atos, and Team Lloyd Irvin establishing themselves among the top teams.
 
 For the most part, I tried to consolidate team names for wording or spelling variations. However, I left in nearly identical team names if they both placed within a category for the same year (such as Alliance and Alliance International, or Gracie Humaita and Gracie Humaita Reunion).
 
