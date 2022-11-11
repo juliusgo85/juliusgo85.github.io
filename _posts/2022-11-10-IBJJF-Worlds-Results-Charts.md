@@ -57,4 +57,4 @@ For the most part, I tried to consolidate team names for wording or spelling var
 
  Thanks for reading through this. I hope this was insightful and easy to digest.
 
- <a href="IBJJF_Worlds_results_notebook.html">testing</a>
+ <a href="https://juliusgo85.github.io/IBJJF_Worlds_results_notebook.html">testing</a>
