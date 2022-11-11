@@ -57,4 +57,4 @@ For the most part, I tried to consolidate team names for wording or spelling var
 
  Thanks for reading through this. I hope this was insightful and easy to digest.
 
- For those interested in seeing how the sausage is made, please check out the <a href="https://juliusgo85.github.io/IBJJF_Worlds_results_notebook.html">Jupyter notebook</a>. Due to some quirks with Github Pages not natively serving Jupyter notebooks that run javascript, I am sharing the notebook as an html file.
+ For those interested in seeing how the sausage is made, please check out the <a href="https://juliusgo85.github.io/IBJJF_Worlds_results_notebook.html">Jupyter notebook</a>. Github Pages does not natively render the Altair interactive charts in Jupyter notebooks, I am sharing the notebook as an html file.
