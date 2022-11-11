@@ -20,7 +20,7 @@ title                    : "Programming and Data Projects"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in mastheadß
 name                     : "Julius Go"
-description              : "Getting mat time in the digital dojo"
+description              : "Python, pandas, BJJ, data visualization"
 url                      : "https://juliusgo85.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

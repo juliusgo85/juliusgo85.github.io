@@ -6,6 +6,13 @@ classes: wide
 header:
   teaser: /assets/images/IBJJF_Mens_Results.jpg
 ---
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@wearejackie">
+<meta name="twitter:creator" content="@wearejackie">
+<meta name="twitter:title" content="IBJJF Worlds Results by Year">
+<meta name="twitter:description" content="Bump charts showing IBJJF team rankings by year">
+<meta name="twitter:image" content="https://juliusgo85.github.io/assets/images/IBJJF_Mens_Results.jpg>
+
 ## Web scraping and interactive bump charts
 
 <figure>
