@@ -57,4 +57,4 @@ For the most part, I tried to consolidate team names for wording or spelling var
 
  Thanks for reading through this. I hope this was insightful and easy to digest.
 
- <a href="https://juliusgo85.github.io/IBJJF_Worlds_results_notebook.html">testing</a>
+ For those interested in seeing how the sausage is made, please check out the html Jupyter notebook <a href="https://juliusgo85.github.io/IBJJF_Worlds_results_notebook.html">here</a>. Due to some quirks with Github Pages not natively serving Jupyter notebooks that run javascript, I am sharing the notebook as an html file.
