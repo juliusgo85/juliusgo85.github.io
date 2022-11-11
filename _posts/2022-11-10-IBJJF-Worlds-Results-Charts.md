@@ -13,6 +13,8 @@ classes: wide
   <figcaption>Static screenshot, interactive charts shown below.</figcaption>
 </figure>
 
+**This site is best viewed on a computer. Viewing on your phone won't allow selecting multiple teams in the charts.**
+
 If you practice Brazilian jiu jitsu (BJJ), you probably notice some teams win consistently but how often do we look at their rankings over the years? Even if you're not participating in or following this very niche sport, it might give you some ideas or tools to do a similar analysis on another subject.
 
 Which teams are "streaky" and place in the top consistently year over year? Are there any "one hit wonder" teams? One thing to keep in mind is the team results are based on athlete rankings within the various belts, not just at the black belt level.
@@ -26,7 +28,6 @@ A fair criticism is that the points are the same for each belt level - i.e. 1st 
 **How I did it:** To get the data, I did some web scraping from the IBJJF's Championships results page to get the individual year rankings. After cleaning up the data in pandas, I used Altair to plot the results for Men's, Women's, and Juvenile categories.
 
 ## Quick notes for navigating:
-- **This site is best viewed on a computer. Viewing on your phone won't allow selecting multiple teams in the charts.**
 - **To select multiple teams in the chart, click a team's name in the legend, then `Shift + Click` to add more teams.**
 - You can also hover over each point to identify the team plotted.
 
