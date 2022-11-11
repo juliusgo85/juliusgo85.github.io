@@ -20,7 +20,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in mastheadß
 name                     : "Julius Go"
-description              : "Documenting things I think are cool"
+description              : "Geting mat time in the digital dojo"
 url                      : "https://juliusgo85.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Julius Go"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Testing grounds for creating a site to display my projects"
+  bio              : "Geting mat time in the digital dojo"
   location         : "California"
   email            :
   links:
