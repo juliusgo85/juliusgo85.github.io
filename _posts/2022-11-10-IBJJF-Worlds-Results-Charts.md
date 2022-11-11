@@ -12,30 +12,39 @@ If you practice Brazilian jiu jitsu (BJJ), you probably notice some teams win co
 
 Which teams are "streaky" and place in the top consistently year over year? Are there any "one hit wonder" teams? One thing to keep in mind is the team results are based on athlete rankings within the various belts, not just at the black belt level.
 
+Team rankings are provided for adult males adult female, and juvenile groups.
+
+Team rankings are based on how a team's athletes place in their respective brackets (divided by age group, gender, belt, weight class) in a single elimination tournament. First place gets 9 points, second place gets 3 points, third place gets 1 point. There are two 3rd-place finishers (they're the ones who lost to 1st and 2nd place winners before the finals match, but don't compete aganist each other after being eliminated).
+
+A fair criticism is that the points are the same for each belt level - i.e. 1st place for a blue belt is the same number of points for 1st place for a black belt. So these rankings are best read as an indication of a team's ability to field winning athletes for as many divisions as possible, instead of a measurement of a team's rankings at a given belt.
+
 **How I did it:** To get the data, I did some web scraping from the IBJJF's Championships results page to get the individual year rankings. After cleaning up the data in pandas, I used Altair to plot the results for Men's, Women's, and Juvenile categories.
 
 ## Quick notes for navigating:
 - **This site is best viewed on a desktop.**
-- **To select multiple teams in the chart, click a team's name in the legend, then hold `Shift + Left-mouse-button` to add more teams.**
+- **To select multiple teams in the chart, click a team's name in the legend, then `Shift + Click` to add more teams.**
 - You can also hover over each point to identify the team plotted.
 
 <br/>
+
 {% include chartmenresults.html %}
 The IBJJF only recorded team rankings for the top 3 teams until 2011, then they started showing the top 10.
 
-Some of the powerhouse men's teams over the years are Alliance, Atos, CheckMat, Cicero Costha, GF Team, and Gracie Barra. Some newer teams on the rise: Art of Jiu Jitsu, Dream Art, Unity.
+Some of the powerhouse men's teams over the years: Alliance, Atos, CheckMat, Cicero Costha, GF Team, and Gracie Barra. Some newer teams on the rise: Art of Jiu Jitsu, Dream Art, Unity.
 
 {% include chartwomenresults.html %}
 Interestingly, compared to the men's team results, there are more unconnected dots, indicating top teams from one year don't necessarily place in the following year. This seems more prevalent in the earlier years.
 
-Notable exceptions for the women's teams: Alliance, Atos, CheckMat, GF Team, Gracie Barra, Gracie Humaita. Some newer teams on the rise: Dream Art, Infight, Unity.
+Consistently high-performing women's teams: Alliance, Atos, CheckMat, GF Team, Gracie Barra, Gracie Humaita. Some newer teams on the rise: Dream Art, Infight, Unity.
 
 {% include chartjuvenileresults.html %}
 
-Juvenile teams over the years: Alliance, Atos, Brasa CTA, CheckMat, Cicero Costha, GF Team, Gracie Barra, Gracie Humaita, Nova Uniao (they had a lot of success in the first few years). Too many up and coming teams to name off.
+Consistent top juvenile teams over the years: Alliance, CheckMat, GF Team, Gracie Barra, Gracie Humaita, Nova Uniao (they had a lot of success in the first few years then placed sporadically). More recent years show Atos, Art of Jiu Jitsu, and Team Lloyd Irvin establishing themselves among the top teams.
 
 For the most part, I tried to consolidate team names for wording or spelling variations. However, I left in nearly identical team names if they both placed within a category for the same year (such as Alliance and Alliance International, or Gracie Humaita and Gracie Humaita Reunion).
 
- A lot of the same teams show up in the 3 separate categories. These are generally some of the largest schools/associations out there. Certainly, a big factor of the overall points is the number of competitors each team places in each weight class at each belt. The other big factor is how well each of those competitors do, but I don't think there's a complete listing available showing each competitor's win/loss record during each tournament.
+ A lot of the same teams show up in the 3 separate categories. These are generally some of the largest schools/associations out there. Certainly, a big factor of the overall points is the number of competitors each team places in each weight class at each belt. The other major factor is how well each of those competitors do, but I don't think there's a complete listing available showing each competitor's win/loss record during each tournament.
  
- Remember: "If you're not first, you're last." Apparently, no one will remember if you won or lost if you're not on the podium (the top 4 of each division).
+ Remember: "If you're not first, you're last." To end with some cynicism and some levity, no one will remember if you won or lost if you're not on the podium. If you lost horribly in the first round, the record books won't remember but your opponent's highlight reel might! Joking aside, tournaments are supposed to be a challenge to yourself but should ultimately be fun so just go out there and play your game.
+
+ Thanks for reading through this. I hope this was insightful and easy to digest.
