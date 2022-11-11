@@ -38,4 +38,4 @@ For the most part, I tried to consolidate team names for wording or spelling var
 
  A lot of the same teams show up in the 3 separate categories. These are generally some of the largest schools/associations out there. Certainly, a big factor of the overall points is the number of competitors each team places in each weight class at each belt. The other big factor is how well each of those competitors do, but I don't think there's a complete listing available showing each competitor's win/loss record during each tournament.
  
- "If you're not first, you're last."
+ Remember: "If you're not first, you're last." Apparently, no one will remember if you won or lost if you're not on the podium (the top 4 of each division).
