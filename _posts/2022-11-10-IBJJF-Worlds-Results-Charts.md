@@ -17,6 +17,8 @@ classes: wide
 
 If you practice Brazilian jiu jitsu (BJJ), you probably notice some teams win consistently but how often do we look at their rankings over the years? Even if you're not participating in or following this very niche sport, it might give you some ideas or tools to do a similar analysis on another subject.
 
+Let's dive in and take a look at how teams have performed at the International Brazilian Jiu Jitsu Federation's (IBJJF) World Championship tournament over the years.
+
 Which teams are "streaky" and place in the top consistently year over year? Are there any "one hit wonder" teams? One thing to keep in mind is the team results are based on athlete rankings within the various belts, not just at the black belt level.
 
 Team rankings are provided for adult males adult female, and juvenile groups.
@@ -54,3 +56,5 @@ For the most part, I tried to consolidate team names for wording or spelling var
  Remember: "If you're not first, you're last." To end with some cynicism and some levity, no one will remember if you won or lost if you're not on the podium. If you lost horribly in the first round, the record books won't remember but your opponent's highlight reel might! Joking aside, tournaments are supposed to be a challenge to yourself but should ultimately be fun so just go out there and play your game.
 
  Thanks for reading through this. I hope this was insightful and easy to digest.
+
+ <a href="IBJJF_Worlds_results_notebook.html">testing</a>
