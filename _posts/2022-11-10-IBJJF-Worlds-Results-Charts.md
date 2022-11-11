@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "IBJJF Worlds Team Results by Year"
 ---
 #IBJJF Worlds Team Results by Year
