@@ -14,4 +14,4 @@ How I did it: To get the data, I did some web scraping from the IBJJF's Champion
 
 <b>This site is best viewed on a desktop. To select multiple teams in the chart, click a team then hold Shift + Left-click your mouse to add more teams.</b>
 
-{% include "IBJJF%20Worlds%20-%20Mens%20results.html" %}
+{% include "chartmensresults.html" %}
