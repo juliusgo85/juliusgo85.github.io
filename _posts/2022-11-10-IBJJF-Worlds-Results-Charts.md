@@ -7,7 +7,7 @@ classes: wide
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="IBJJF Worlds Results by Year">
 <meta name="twitter:description" content="Interactive bump charts showing IBJJF team rankings by year">
-<meta name="twitter:image" content="https://juliusgo85.github.io/assets/images/IBJJF_Mens_Results.jpg">
+<meta name="twitter:image" content="/assets/images/IBJJF_Mens_Results.jpg">
 
 ## Web scraping and interactive bump charts
 
