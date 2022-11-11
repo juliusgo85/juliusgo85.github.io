@@ -6,7 +6,7 @@ classes: wide
 ---
 ## Making interactive charts with data from a website
 
-![Screenshot of Men's team results](/assets/images/IBJJF_Worlds_Mens_Results.jpg)
+![Screenshot of Men's team results](/assets/images/IBJJF_Mens_Results.jpg)
 
 If you practice BJJ, you probably hear about some teams winning all the time but how often do we look at their rankings over the years? Even if you're not participating in or following this very niche sport, it might give you some ideas or tools to do a similar analysis on another subject.
 
