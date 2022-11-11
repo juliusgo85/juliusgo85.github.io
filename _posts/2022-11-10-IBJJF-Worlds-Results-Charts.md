@@ -3,6 +3,8 @@ layout: posts
 title: "IBJJF Worlds Team Results by Year"
 htmlwidgets: TRUE
 classes: wide
+header:
+  teaser: /assets/images/IBJJF_Mens_Results.jpg
 ---
 ## Web scraping and interactive bump charts
 
