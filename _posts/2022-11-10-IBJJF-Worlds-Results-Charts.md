@@ -12,6 +12,7 @@ If you practice BJJ, you probably hear about some teams winning all the time but
 
 How I did it: To get the data, I did some web scraping from the IBJJF's Championships results page to get the individual year rankings. After cleaning up the data in pandas, I used Altair to plot the results for Men's, Women's, and Juvenile categories.
 
-<b>This site is best viewed on a desktop. To select multiple teams in the chart, click a team then hold Shift + Left-click your mouse to add more teams.</b>
+<b>This site is best viewed on a desktop.
+To select multiple teams in the chart, click a team's name in the legend,then hold Shift + Left-click your mouse to add more teams.</b>
 
-{% include "chartmensresults.html" %}
+{% include chartmensresults.html %}
