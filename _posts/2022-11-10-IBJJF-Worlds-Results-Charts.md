@@ -15,4 +15,4 @@ How I did it: To get the data, I did some web scraping from the IBJJF's Champion
 <b>This site is best viewed on a desktop.
 To select multiple teams in the chart, click a team's name in the legend,then hold Shift + Left-click your mouse to add more teams.</b>
 
-{% include chartmensresults.html %}
+{% include chartmenresults.html %}
