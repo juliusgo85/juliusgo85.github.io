@@ -21,7 +21,7 @@ Which teams are "streaky" and place in the top consistently year over year? Are 
 
 
 {% include chartmenresults.html %}
-The IBJJF only recorded team rankings for the top 3 teams until 2012, when they started showing the top 10.
+The IBJJF only recorded team rankings for the top 3 teams until 2011, then they started showing the top 10.
 
 {% include chartwomenresults.html %}
 Interestingly, compared to the men's team results, there are more unconnected dots, indicating top teams from one year don't necessarily place in the following year. This seems more prevalent in the earlier years.
