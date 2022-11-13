@@ -26,7 +26,7 @@ Let's dive in and take a look at how teams have performed at the International B
 
 Which teams are "streaky" and place in the top consistently year over year? Are there any "one hit wonder" teams? One thing to keep in mind is the team results are based on athlete rankings within the various belts, not just at the black belt level.
 
-Team rankings are provided for adult males adult female, and juvenile groups.
+Team rankings are provided for adult male, adult female, and juvenile groups.
 
 Team rankings are based on how a team's athletes place in their respective brackets (divided by age group, gender, belt, weight class) in a single elimination tournament. First place gets 9 points, second place gets 3 points, third place gets 1 point. There are two 3rd-place finishers (they're the ones who lost to 1st and 2nd place winners before the finals match, but don't compete aganist each other after being eliminated).
 
