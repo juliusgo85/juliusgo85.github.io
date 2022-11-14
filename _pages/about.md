@@ -3,7 +3,7 @@ title: "About me"
 permalink: /about/
 layout: single
 header:
-  image: /assets/images/bw_dojo.jpeg
+  overlay_image: /assets/images/bw_dojo.jpeg
 ---
 
 Hi, my name is Julius Go. During the last few years working as a senior financial analyst, I've started to see how programming can make my job easier and provide deeper insights than the usual tools like Excel pivot tables and vlookups.
