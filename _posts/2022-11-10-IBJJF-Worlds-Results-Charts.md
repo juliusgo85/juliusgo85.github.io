@@ -3,6 +3,8 @@ layout: posts
 title: "IBJJF Worlds Team Results by Year"
 htmlwidgets: TRUE
 classes: wide
+header:
+  teaser: /assets/images/IBJJF_Mens_Results.jpg
 ---
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="IBJJF Worlds Results by Year">
